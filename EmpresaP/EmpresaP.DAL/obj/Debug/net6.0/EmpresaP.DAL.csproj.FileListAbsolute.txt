@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\bin\Debug\net6.0\EmpresaP.DAL.deps.json
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\bin\Debug\net6.0\EmpresaP.DAL.dll
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\bin\Debug\net6.0\EmpresaP.DAL.pdb
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\bin\Debug\net6.0\EmpresaP.Modelos.dll
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\bin\Debug\net6.0\EmpresaP.Modelos.pdb
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.dll
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\refint\EmpresaP.DAL.dll
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\EmpresaP.DAL.pdb
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.DAL\obj\Debug\net6.0\ref\EmpresaP.DAL.dll

@@ -8,4 +8,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EmpresaP.BSS\EmpresaP.BSS.csproj" />
+    <ProjectReference Include="..\EmpresaP.Modelos\EmpresaP.Modelos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="PedidoVistas\" />
+  </ItemGroup>
+
 </Project>
