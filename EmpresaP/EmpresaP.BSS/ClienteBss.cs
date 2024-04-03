@@ -33,5 +33,15 @@ namespace EmpresaP.BSS
         {
             dal.EliminarClienteDal(id);
         }
+
+        public DataTable ClienteDatosTBss(int id)
+        {
+            return dal.ClienteDatosTDal(id);
+        }
+        public DataTable ClienteDatosLBss(int id)
+        {
+            return dal.ClienteDatosLDal(id);
+        }
+        
     }
 }

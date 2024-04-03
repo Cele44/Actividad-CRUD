@@ -10,7 +10,22 @@
     <Compile Update="ClienteVistas\ClienteListarVista.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ClienteVistas\ClientePedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClienteVistas\ClienteTotalPe.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PedidoVistas\PedidoEditarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PedidoVistas\PedidoInsertarVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PedidoVistas\PedidoListarVista.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

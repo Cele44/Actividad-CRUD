@@ -29,7 +29,7 @@ namespace EmpresaP.DAL
         {
             string consulta = "select * from cliente where idcliente=" + id;
             DataTable tabla = conexion.EjecutarDataTabla(consulta, "asdas");
-           Cliente c = new Cliente();
+            Cliente c = new Cliente();
             if (tabla.Rows.Count > 0)
             {
                 c.IdCliente = Convert.ToInt32(tabla.Rows[0]["idcliente"]);
@@ -48,7 +48,7 @@ namespace EmpresaP.DAL
                                                  "apellido='" + c.Apellido + "'," +
                                                  "correo='" + c.Correo + "'," +
                                                  "telefono='" + c.Telefono + "'," +
-                                                 "direccion='" + c.Direccion + "'," +
+                                                 "direccion='" + c.Direccion + "'" +
                                "where idcliente=" + c.IdCliente;
             conexion.Ejecutar(consulta);
         }
@@ -57,5 +57,22 @@ namespace EmpresaP.DAL
             string consulta = "delete from cliente where idcliente=" + id;
             conexion.Ejecutar(consulta);
         }
+
+        //consultas
+        public DataTable ClienteDatosTDal(int id)
+        {
+            string consulta = " SELECT COUNT(*) AS TotalPedidos FROM PEDIDO WHERE IDCLIENTE = " + id;
+
+            return conexion.EjecutarDataTabla(consulta, "fsdf");
+
+        }
+        public DataTable ClienteDatosLDal(int id)
+        {
+            string consulta = " SELECT * FROM PEDIDO WHERE IDCLIENTE = " + id;
+
+            return conexion.EjecutarDataTabla(consulta, "fsdf");
+
+        }
+       
     }
 }

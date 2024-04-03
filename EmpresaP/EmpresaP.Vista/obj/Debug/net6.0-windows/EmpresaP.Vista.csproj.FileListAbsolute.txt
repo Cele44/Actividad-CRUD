@@ -29,3 +29,10 @@ C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.
 C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.pdb
 C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\ref\EmpresaP.Vista.dll
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.ClienteVistas.ClienteEditarVista.resources
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.ClienteVistas.ClienteInsertarVista.resources
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.PedidoVistas.PedidoEditarVista.resources
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.PedidoVistas.PedidoInsertarVista.resources
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.PedidoVistas.PedidoListarVista.resources
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.ClienteVistas.ClientePedidos.resources
+C:\Users\maria\OneDrive\Documentos\DSactividad\Actividad-CRUD\EmpresaP\EmpresaP.Vista\obj\Debug\net6.0-windows\EmpresaP.Vista.ClienteVistas.ClienteTotalPe.resources

@@ -61,6 +61,7 @@
             button1.TabIndex = 22;
             button1.Text = "Guardar";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // textBox5
             // 
@@ -146,7 +147,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.DeepSkyBlue;
+            BackColor = Color.SteelBlue;
             ClientSize = new Size(417, 597);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -162,6 +163,7 @@
             Controls.Add(label1);
             Name = "ClienteEditarVista";
             Text = "ClienteEditarVista";
+            Load += ClienteEditarVista_Load;
             ResumeLayout(false);
             PerformLayout();
         }

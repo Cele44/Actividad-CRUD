@@ -12,6 +12,7 @@ namespace EmpresaP.Vista
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new ClienteVistas.ClienteListarVista());
+            Application.Run(new PedidoVistas.PedidoListarVista());
         }
     }
 }
